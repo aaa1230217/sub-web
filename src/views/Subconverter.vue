@@ -261,14 +261,14 @@ export default {
             label: "universal",
             options: [
               {
-                label: "No-Urltest",
+                label: "自用完整分组无测速",
                 value:
-                  "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/universal/no-urltest.ini"
+                  "https://raw.githubusercontent.com/aaa1230217/ACL4SSR_Fork/master/Clash/config/MY_No.ini"
               },
               {
-                label: "Urltest",
+                label: "自用完整分组无测速机场",
                 value:
-                  "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/universal/urltest.ini"
+                  "https://raw.githubusercontent.com/aaa1230217/ACL4SSR_Fork/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini"
               }
             ]
           },
