@@ -269,6 +269,11 @@ export default {
                 label: "自用完整分组无测速机场",
                 value:
                   "https://raw.githubusercontent.com/aaa1230217/ACL4SSR_Fork/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini"
+              },
+              {
+                label: "自用完整分组无测速机场aws",
+                value:
+                  "https://raw.githubusercontent.com/aaa1230217/ACL4SSR_Fork/master/Clash/config/MoRenQuanLiangWucesu.ini"
               }
             ]
           },
