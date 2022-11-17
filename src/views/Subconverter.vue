@@ -302,17 +302,17 @@ export default {
             label: "universal",
             options: [
               {
-                label: "自用完整分组无测速",
+                label: "自用完整分组无测速AZ",
                 value:
                   "https://raw.githubusercontent.com/aaa1230217/ACL4SSR_Fork/master/Clash/config/MY_No.ini"
               },
               {
-                label: "自用完整分组无测速机场",
+                label: "自用完整分组无测速AWS",
                 value:
                   "https://raw.githubusercontent.com/aaa1230217/ACL4SSR_Fork/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini"
               },
               {
-                label: "自用完整分组无测速机场aws",
+                label: "自用完整分组无测速机场Fishport",
                 value:
                   "https://raw.githubusercontent.com/aaa1230217/ACL4SSR_Fork/master/Clash/config/MoRenQuanLiangWucesu.ini"
               }
