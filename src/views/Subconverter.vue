@@ -304,17 +304,17 @@ export default {
               {
                 label: "自用完整分组无测速AZ",
                 value:
-                  "https://raw.githubusercontent.com/aaa1230217/ACL4SSR_Fork/master/Clash/config/MY_No.ini"
+                  "https://raw.githubusercontent.com/yumaoss/ACL4SSR_Fork/master/Clash/config/MY_No.ini"
               },
               {
                 label: "自用完整分组无测速AWS",
                 value:
-                  "https://raw.githubusercontent.com/aaa1230217/ACL4SSR_Fork/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini"
+                  "https://raw.githubusercontent.com/yumaoss/ACL4SSR_Fork/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini"
               },
               {
                 label: "自用完整分组无测速机场Fishport",
                 value:
-                  "https://raw.githubusercontent.com/aaa1230217/ACL4SSR_Fork/master/Clash/config/MoRenQuanLiangWucesu.ini"
+                  "https://raw.githubusercontent.com/yumaoss/ACL4SSR_Fork/master/Clash/config/MoRenQuanLiangWucesu.ini"
               }
             ]
           },
