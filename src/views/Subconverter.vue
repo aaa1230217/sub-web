@@ -312,9 +312,14 @@ export default {
                   "https://raw.githubusercontent.com/yumaoss/ACL4SSR_Fork/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini"
               },
               {
-                label: "自用完整分组无测速机场Fishport",
+                label: "Fishport_aws",
                 value:
-                  "https://raw.githubusercontent.com/yumaoss/ACL4SSR_Fork/master/Clash/config/MoRenQuanLiangWucesu.ini"
+                  "https://raw.githubusercontent.com/yumaoss/ACL4SSR_Fork/master/Clash/config/Fishport_aws.ini"
+              },
+              {
+                label: "Fishport_az",
+                value:
+                  "https://raw.githubusercontent.com/yumaoss/ACL4SSR_Fork/master/Clash/config/Fishport_az.ini"
               }
             ]
           },
