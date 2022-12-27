@@ -302,6 +302,11 @@ export default {
             label: "universal",
             options: [
               {
+                label: "ACL4SSR_Online_Full_无测速(转发)",
+                value:
+                  "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini"
+              },
+              {
                 label: "自用完整分组无测速AZ",
                 value:
                   "https://raw.githubusercontent.com/yumaoss/ACL4SSR_Fork/master/Clash/config/MY_No.ini"
