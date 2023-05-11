@@ -307,29 +307,9 @@ export default {
                   "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini"
               },
               {
-                label: "ACL4SSR_Online_Full_无测速(转发)",
+                label: "ACL4SSR_Online_Full_无测速(谷歌全量添加转发负载)",
                 value:
-                  "https://raw.githubusercontent.com/yumaoss/ACL4SSR_Fork/master/Clash/config/ACL4SSR_Online_Full_NoAuto_Moren.ini"
-              },
-              {
-                label: "自用完整分组无测速AZ",
-                value:
-                  "https://raw.githubusercontent.com/yumaoss/ACL4SSR_Fork/master/Clash/config/MY_No.ini"
-              },
-              {
-                label: "自用完整分组无测速AWS",
-                value:
-                  "https://raw.githubusercontent.com/yumaoss/ACL4SSR_Fork/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini"
-              },
-              {
-                label: "Fishport_aws",
-                value:
-                  "https://raw.githubusercontent.com/yumaoss/ACL4SSR_Fork/master/Clash/config/Fishport_aws.ini"
-              },
-              {
-                label: "Fishport_az",
-                value:
-                  "https://raw.githubusercontent.com/yumaoss/ACL4SSR_Fork/master/Clash/config/Fishport_az.ini"
+                  "https://raw.githubusercontent.com/yumaoss/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_GoogleDIY.ini"
               }
             ]
           },
