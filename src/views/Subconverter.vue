@@ -217,9 +217,9 @@ export default {
             label: "universal",
             options: [
               {
-                label: "ACL4SSR_Online_Full_无测速(默认)",
+                label: "ACL4SSR_Online_Full_无测速Meta(谷歌全量添加转发负载)",
                 value:
-                  "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini"
+                  "https://raw.githubusercontent.com/yumaoss/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_GoogleDIY_Meta.ini"
               },
               {
                 label: "ACL4SSR_Online_Full_无测速(谷歌全量添加转发负载)",
