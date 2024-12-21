@@ -238,6 +238,11 @@ export default {
             label: "universal",
             options: [
               {
+                label: "CDN_ACL4SSR_Online_Full_无测速Meta(谷歌全量添加转发负载)",
+                value:
+                  "https://ghgi.178888.best/raw.githubusercontent.com/yumaoss/ACL4SSR/refs/heads/master/Clash/config/gitmirror_ACL4SSR_Online_Full_GoogleDIY_Meta.ini"
+              },
+              {
                 label: "ACL4SSR_Online_Full_无测速Meta(谷歌全量添加转发负载)",
                 value:
                   "https://raw.githubusercontent.com/yumaoss/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_GoogleDIY_Meta.ini"
